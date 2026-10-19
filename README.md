@@ -13,18 +13,6 @@ Please see the [LICENSE][license] file for usage and redistribution terms.
 
 * **Onion Browser**: 3.4.4 - See [official release history][releases] and [changelog][changelog].
 
-[official]: https://onionbrowser.com/
-[help]: https://github.com/OnionBrowser/OnionBrowser/wiki/Help
-[releases]: https://github.com/OnionBrowser/OnionBrowser/releases
-[changelog]: https://raw.githubusercontent.com/OnionBrowser/OnionBrowser/3.X/CHANGELOG.md
-[donate]: https://onionbrowser.com/donate
-[miketigas]: https://mike.tig.as/
-[license]: https://github.com/OnionBrowser/OnionBrowser/blob/3.X/LICENSE
-[orbot]: https://orbot.app/
-[tor]: https://www.torproject.org/
-[2.X]: https://github.com/OnionBrowser/OnionBrowser/tree/2.X
-[1.X]: https://github.com/OnionBrowser/OnionBrowser/tree/1.X
-
 ## Notable 3.X Features
 
 The following features are new to Onion Browser, mostly by leveraging [Orbot iOS][orbot]:
@@ -119,11 +107,6 @@ These people helped with translations. Thank you so much, folks!
   Herenko, lyubomyr, MykolaBubelich, Kataphan, Pihjun, gr3ttle
 - Vietnamese: 
   AshCopper, PMinhDuc, Shinigami
-
-## Contributors
-
-This project exists thanks to all the people who contribute. 
-<a href="https://github.com/OnionBrowser/OnionBrowser/graphs/contributors"><img src="https://opencollective.com/OnionBrowser/contributors.svg?width=890&button=false" /></a>
 
 ## How to build yourself
 
